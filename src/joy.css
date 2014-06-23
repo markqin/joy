@@ -1,0 +1,75 @@
+/* ====== JOY系统样式 ====== */
+
+#JOY body {
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+#JOY .joy-header {
+	padding: 10px 0;
+}
+#JOY .joy-logo {
+	padding: 0;
+	margin: 0;
+	font-size: 20px;
+}
+
+
+#JOY .joy-class-nav {
+	background-color: #ccc;
+	padding: 5px;
+}
+#JOY .joy-class-nav a {
+	margin-right: 10px;
+}
+
+#JOY .joy-tags-nav {
+	background-color: #ddd;
+	padding: 5px;
+	margin-top: 10px;
+}
+#JOY .joy-tags-nav a {
+	margin-right: 10px;
+}
+
+#JOY .joy-detail-nav {
+	background-color: #eee;
+	padding: 5px;
+	margin-top: 15px;
+}
+#JOY .joy-detail-nav a {
+	margin-right: 10px;
+}
+
+#JOY .joy-file-title {
+	padding: 5px 10px;
+	color: #900b09;
+}
+
+
+#JOY .joy-data-show {
+
+}
+
+
+
+
+#JOY .joy-tags-about {
+	display: none;
+	position: absolute;
+	top: 0;
+	right: -600px;
+	padding: 0 10px;
+	background: #f2f2f2;
+	height: 100%;
+	width: 530px;
+}
+#JOY .joy-tags-about-nav {
+	padding: 10px 0;
+}
+#JOY .joy-tags-about-nav a {
+	margin-right: 10px;
+}
+
+
